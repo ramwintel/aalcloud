@@ -46,9 +46,14 @@ const Home: React.FC = () => {
             <p className="text-xl md:text-2xl mb-8 text-blue-100">
               Expert Azure and Terraform consulting to modernize your cloud infrastructure
             </p>
-            <button className="bg-white text-blue-600 px-8 py-3 rounded-full font-semibold hover:bg-blue-50 transition-colors">
-              Get Started
-            </button>
+            <div className="flex flex-wrap justify-center gap-4">
+              <a href="mailto:contact@aalcloud.com" className="bg-white text-blue-600 px-8 py-3 rounded-full font-semibold hover:bg-blue-50 transition-colors">
+                Contact Us
+              </a>
+              <button className="bg-white text-blue-600 px-8 py-3 rounded-full font-semibold hover:bg-blue-50 transition-colors">
+                Get Started
+              </button>
+            </div>
           </motion.div>
         </div>
       </section>

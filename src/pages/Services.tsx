@@ -85,9 +85,9 @@ const Services: React.FC = () => {
           <h2 className="text-2xl font-bold text-gray-900 mb-4">
             Ready to Transform Your Infrastructure?
           </h2>
-          <button className="bg-blue-600 text-white px-8 py-3 rounded-full font-semibold hover:bg-blue-700 transition-colors">
+          <a href="mailto:contact@aalcloud.com" className="inline-block bg-blue-600 text-white px-8 py-3 rounded-full font-semibold hover:bg-blue-700 transition-colors">
             Contact Us
-          </button>
+          </a>
         </motion.div>
       </div>
     </div>

@@ -117,6 +117,9 @@ const Careers: React.FC = () => {
                 <button className="bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition-colors">
                   Apply Now
                 </button>
+                <a href="mailto:contact@aalcloud.com" className="inline-block ml-4 bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition-colors">
+                  Contact Us
+                </a>
               </div>
             </motion.div>
           </div>

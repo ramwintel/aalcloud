@@ -31,6 +31,9 @@ const Navbar: React.FC = () => {
             <Link to="/careers" className="text-gray-700 hover:text-brand-600 transition-colors">
               Careers
             </Link>
+            <a href="mailto:contact@aalcloud.com" className="text-gray-700 hover:text-brand-600 transition-colors">
+              Contact
+            </a>
           </div>
 
           {/* Mobile Menu Button */}
@@ -83,6 +86,13 @@ const Navbar: React.FC = () => {
               >
                 Careers
               </Link>
+              <a
+                href="mailto:contact@aalcloud.com"
+                className="block px-3 py-2 rounded-md text-gray-700 hover:text-brand-600 hover:bg-brand-50"
+                onClick={() => setIsOpen(false)}
+              >
+                Contact
+              </a>
             </div>
           </div>
         )}

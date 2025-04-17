@@ -1,0 +1,20 @@
+Candidate should be in Chennai, I will give him initial KT and give him the weekly requirements in advance..HE SHOULD BE IN MY HOME OFFICE WEEKLY 12 HOURS to finish the work in my laptop (this can be in weekdays or weekend and timing also he can decide based on his availability).. I will pay him 50K (Negotiable) CASH every month..
+
+We are seeking a highly skilled DevOps Engineer with expertise in Azure Cloud, Azure kubernetes services (AKS), Terraform Infrastructure as Code (IaC), very COMPLEX CI/CD pipeline automation using Azure DevOps, and strong scripting capabilities in PowerShell and Bash. The ideal candidate will have a deep understanding of cloud-native architecture, automation, and modern DevOps practices to drive secure, scalable, and highly available infrastructure solutions.
+
+⸻
+
+Key Responsibilities:
+	•	Design, implement, and maintain scalable infrastructure using Terraform on Microsoft Azure.
+	•	Develop and manage end-to-end CI/CD pipelines using Azure DevOps (ADO) for build, release, and deployment automation.
+	•	Implement infrastructure provisioning, configuration management, and state handling with Terraform and Azure DevOps Repos.
+	•	Write reusable, secure, and efficient scripts in PowerShell and Bash for automation and operational tasks.
+
+Required Skills:
+	•	Proven hands-on experience with Azure services (AKS, App Services, VNets, NSGs, Azure Firewall, Storage, Cosmos DB, etc.)
+	•	Expertise in Terraform (HCL), including modules, workspaces, remote state, and backends.
+	•	Strong working knowledge of Azure DevOps Pipelines, Repos, and Service Connections.
+	•	Proficiency in PowerShell and Bash scripting.
+	•	Good understanding of Git workflows, branching strategies, and code versioning.
+	•	Experience with Azure RBAC, service principals, and identity-based access management.
+	•	Familiarity with monitoring/logging using Azure Monitor, Log Analytics, and Application Insights.

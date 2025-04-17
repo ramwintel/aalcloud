@@ -2,7 +2,7 @@
   "name": "aalcloud",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ramwintel.github.io/aalcloud",
+  "homepage": "https://aalcloud.com",
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.14.0",

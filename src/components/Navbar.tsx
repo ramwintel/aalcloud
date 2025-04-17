@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Menu, X } from 'lucide-react';
+import logo from '../assets/images/AalCloudLogo.png';
 
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -10,7 +11,7 @@ const Navbar: React.FC = () => {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center space-x-3">
-            <span className="text-2xl font-bold text-brand-600">AalCloud</span>
+            <img src={logo} alt="AalCloud Logo" className="h-10 w-auto" />
           </Link>
 
           {/* Desktop Menu */}
